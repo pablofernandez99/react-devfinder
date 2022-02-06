@@ -7,6 +7,8 @@ React demo project featuring:
 * GitHub API
 * TailwindCSS
 
+## View [Live App](https://react-devfinder-demo.netlify.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
